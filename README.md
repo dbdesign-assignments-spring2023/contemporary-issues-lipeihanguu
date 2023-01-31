@@ -1,3 +1,14 @@
-# Contemporary Issues In Data
+# The Benefit of Decentralized Database and the Introduction of Web 3.0
+The purpose of this document is to critically analyze and assess contemporary concerns associated with databases. In order to further this analysis, two articles have been included. The first article, sourced from Forbes, explicates the advantages of decentralized databases, while the second article, drawn from Cryptonews, concentrates on introducing and evaluating the benefits of Web 3.0. Both of these articles serve as a valuable resource for gaining a deeper understanding of decentralizing database.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1: A Decentralized Approach To Database Management (https://www.forbes.com/sites/forbestechcouncil/2022/04/18/a-decentralized-approach-to-database-management/)
+
+The rapid increase in the amount of data stored on the Internet has led to numerous problems, including privacy concerns. The traditional framework of database management systems has become outdated and presents potential security risks. Hence, there is a growing interest in decentralized databases as part of the broader trend towards decentralized web 3.
+
+One potential solution is the integration of blockchain technology into database management systems, as discussed in the article "Interlacing blockchain functionalities with distributed database management systems" (Shah, 2022). An example of such a solution is Inery, a decentralized database management system that combines the best features of traditional database management systems and blockchain technology, ensuring both optimized performance and data security. Another example is BigchainDB, which similarly combines blockchain and database technology. Ultimately, decentralized databases hold the potential to bring benefits to various industries, including increased data security and greater insights from data analysis.
+
+## Article 2: Why Decentralized Data Storage Could be the Next Big Thing in Web 3.0 (https://cryptonews.com/news/why-decentralized-data-storage-could-next-big-thing-web-30.htm)
+
+The authors in the article bring attention to the pressing issue of privacy and data security in the current Internet landscape. As a solution, they propose the emergence of Web 3.0, characterized by its decentralized nature, enabling users to have greater control over their on-chain data. The authors highlight the potential of Decentralized Databases and blockchain technology in achieving the objectives of Web 3.0.
+
+The MP1 server in Web 3.0 is presented as a significant step in this direction, as it offers users the ability to manage their own data. The MP1 server not only has the potential to support "complex simulations, AI acceleration, VR applications and blockchain GPU mining" but also serves as a secure backup solution in the face of attacks (2022).
